@@ -1,4 +1,5 @@
-# SignMate a Windows Application that teaches you the ASL Alphabet using Computer Vision
+# SignMate 
+## A Windows Application that teaches you the ASL Alphabet using Computer Vision
 
 A Windows application built with Qt in C++ and utilizing OnpenCV and TensorFlow models in Python. The computer vision application reads the users signs for each letter in the ASL alphabet and dispalys it on the screen.
 
